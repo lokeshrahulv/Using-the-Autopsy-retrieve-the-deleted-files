@@ -50,6 +50,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 - Go to **File Views** (left panel).
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
+![image](https://github.com/user-attachments/assets/5a1f61d6-eab6-4d36-a2f1-315cad40f6b8)
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
